@@ -1,5 +1,7 @@
 这是自己之前写过的一个源自慕课的淘宝类型网站的实现
 
+内容来自于：![课程地址和源码](https://github.com/TemplarJQ/MMall_JAVA)
+
 ## 这个项目是啥？
 整合SSM框架（Spring+SpringMVC+Mybatis），采用前后端分离的架构方式开发的仿天猫在线电商平台项目，服务器端源代码。通过完成本项目，掌握了如下技能：
 + 首先，当然是java web开发，包括javaEE的核心技术的实际应用；
